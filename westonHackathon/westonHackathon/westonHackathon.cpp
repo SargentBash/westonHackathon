@@ -9,7 +9,11 @@ using namespace std;
 
 int main()
 {
-	cout << "WHHHYYYYYYY!!!"
+	while (1 < 2) {
+		//code here.
+
+
+	}
 	_getch();
 }
 
