@@ -9,6 +9,7 @@ using namespace std;
 
 int main()
 {
+	cout << "What are you trying to do?";
 	while (1 < 2) {
 		//code here, well done Dan I'm glad you know where code needs to go.
 
