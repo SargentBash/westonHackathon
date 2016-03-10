@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+	system("cls");
 	while (1 < 2) 
 	{
 		system("cls");
