@@ -2,9 +2,9 @@
 //
 
 #include "stdafx.h"
+#include <include
 
-
-int _tmain(int argc, _TCHAR* argv[])
+int main
 {
 	cout << "WHHHYYYYYYY!!!"
 	return 0;
