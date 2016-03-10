@@ -25,7 +25,7 @@ int main()
 		system("cls");
 		system("color 6F");
 		system("cls");
-
+		cout << "We should probably do something serious now?";
 		//code here, well done Dan I'm glad you know where code needs to go.
 
 	}
