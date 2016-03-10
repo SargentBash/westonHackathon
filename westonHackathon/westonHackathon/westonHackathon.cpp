@@ -2,11 +2,14 @@
 //
 
 #include "stdafx.h"
-#include <include
+#include <iostream>;
+#include <conio.h>
 
-int main
+using namespace std;
+
+int main()
 {
 	cout << "WHHHYYYYYYY!!!"
-	return 0;
+	_getch();
 }
 
